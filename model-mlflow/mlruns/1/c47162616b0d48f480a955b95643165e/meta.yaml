@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guntur/Workspace/mle-fazz/model-mlflow/mlruns/1/c47162616b0d48f480a955b95643165e/artifacts
+end_time: 1654494925744
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: c47162616b0d48f480a955b95643165e
+run_uuid: c47162616b0d48f480a955b95643165e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654494924058
+status: 3
+tags: []
+user_id: guntur
